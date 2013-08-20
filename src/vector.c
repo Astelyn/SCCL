@@ -1,4 +1,4 @@
-#include "vector.h"
+#include "SCCL/vector.h"
 
 struct VectorT {
     void**   data;

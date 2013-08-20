@@ -1,4 +1,4 @@
-#include "stack.h"
+#include "SCCL/stack.h"
 
 struct StackElementT {
     void*                 data;
